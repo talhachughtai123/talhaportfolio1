@@ -4,7 +4,7 @@ import ScrollService from "../../utilities/ScrollService";
 import Animations from "../../utilities/Animations";
 import "./AboutMe.css";
 
-export default function AboutMe(props) {
+  export default function AboutMe(props) {
   
   let fadeInScreenHandler = (screen) => {
     if (screen.fadeScreen !== props.id) return;
@@ -16,13 +16,13 @@ export default function AboutMe(props) {
 
   const SCREEN_CONSTSANTS = {
     description:
-      "Full stack web and mobile developer with background knowledge of MERN stacks with redux, along with a knack of building applications with utmost efficiency. Strong professional with a BSC willing to be an asset for an organization.",
+      "I am a web enthusiast and researcher, a quick learner, and keen to explore the realm of web engineering. To work and grow professionally as a web developer in a stable organization where I could contribute my skills. My endeavor and dedication in the job will help me achieve the company's goals and objectives.",
     highlights: {
       bullets: [
         "Full Stack web and mobile development",
         "Interactive Front End as per the design",
-        "React and React Native",
-        "Redux for State Mnanagement",
+        "React and VueJs",
+        "Laravel And RoR for Backend",
         "Building REST API",
         "Managing database",
       ],

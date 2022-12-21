@@ -29,7 +29,7 @@ export default function Profile() {
           <div className="profile-details-name">
             <span className="primary-text">
               {" "}
-              Hello, I'M <span className="highlighted-text">Ehiedu</span>
+              Hello, I'M <span className="highlighted-text">Talha Javed</span>
             </span>
           </div>
           <div className="profile-details-role">
@@ -43,11 +43,9 @@ export default function Profile() {
                     1000,
                     "Full stack Developer 💻",
                     1000,
-                    "Mern stck Dev 📱",
+                    "Laravel Dev 📱",
                     1000,
                     "Cross Platform Dev 🔴",
-                    1000,
-                    "React/React Native 🌐",
                     1000,
                   ]}
                 />
