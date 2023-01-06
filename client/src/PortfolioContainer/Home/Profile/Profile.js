@@ -9,19 +9,19 @@ export default function Profile() {
         <div className="profile-details">
           <div className="colz">
             <div className="cols-icon">
-              <a href="https://www.facebook.com/talha.chughtai.12/">
+              <a href="https://www.facebook.com/talha.chughtai.12/" target="_blank">
                 <i className="fa fa-facebook-square" />
               </a>
               <a href="#">
                 <i className="fa fa-google-plus-square" />
               </a>
-              <a href="https://www.instagram.com/talha.chughtai/">
+              <a href="https://www.instagram.com/talha.chughtai/" target="_blank">
                 <i className="fa fa-instagram" />
               </a>
-              <a href="https://www.youtube.com">
+              <a href="https://www.youtube.com" target="_blank">
                 <i className="fa fa-youtube-square" />
               </a>
-              <a href="https://twitter.com/TalhaCh82559507">
+              <a href="https://twitter.com/TalhaCh82559507" target="_blank">
                 <i className="fa fa-twitter" />
               </a>
             </div>
